@@ -1,6 +1,6 @@
 {
   "Superheroes": [
-    [
+    
       {
         "ID": 1,
         "superhero": "Batman",
@@ -63,5 +63,4 @@
       }
     ]
     
-  ]
 }
