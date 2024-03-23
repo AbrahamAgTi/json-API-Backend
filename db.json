@@ -1,33 +1,67 @@
 {
-  "projects": [
-    {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
-    },
-    {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
-    }
+  "Superheroes": [
+    [
+      {
+        "ID": 1,
+        "superhero": "Batman",
+        "superpower": "Exceptional martial artist and strategist",
+        "publisher": "DC"
+      },
+      {
+        "ID": 2,
+        "superhero": "Wonder Woman",
+        "superpower": "Superhuman strength and agility",
+        "publisher": "DC"
+      },
+      {
+        "ID": 3,
+        "superhero": "Iron Man",
+        "superpower": "Powered exoskeleton suit with various weapons and tools",
+        "publisher": "Marvel"
+      },
+      {
+        "ID": 4,
+        "superhero": "Flash",
+        "superpower": "Superhuman speed",
+        "publisher": "DC"
+      },
+      {
+        "ID": 5,
+        "superhero": "Thor",
+        "superpower": "Control over lightning and superhuman strength",
+        "publisher": "Marvel"
+      },
+      {
+        "ID": 6,
+        "superhero": "Green Lantern",
+        "superpower": "Power ring that creates energy constructs based on the wielder's willpower",
+        "publisher": "DC"
+      },
+      {
+        "ID": 7,
+        "superhero": "Black Widow",
+        "superpower": "Exceptional spy skills, martial artist, and markswoman",
+        "publisher": "Marvel"
+      },
+      {
+        "ID": 8,
+        "superhero": "Captain America",
+        "superpower": "Peak human strength, agility, and endurance, Vibranium shield",
+        "publisher": "Marvel"
+      },
+      {
+        "ID": 9,
+        "superhero": "Hulk",
+        "superpower": "Superhuman strength and durability, increases with anger",
+        "publisher": "Marvel"
+      },
+      {
+        "ID": 10,
+        "superhero": "Doctor Strange",
+        "superpower": "Mastery of mystical arts, including spellcasting and astral projection",
+        "publisher": "Marvel"
+      }
+    ]
+    
   ]
 }
